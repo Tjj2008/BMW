@@ -43,21 +43,21 @@ const App = () => {
       />
 
 <Card
-        imageUrl="https://static.rajamobil.com/media/images/databasemobil/mobilbaru/color/1677221757-Alphine_White_Uni.png"
-        title="BMW x5"
+        imageUrl="https://img.remediosdigitales.com/c1795e/peugeot_e_legend_2-4-/450_1000.jpg"
+        title="Peugeot E-legend"
         
       />
 
 <Card
-        imageUrl="https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331cqgv2Z7d%25i02uCaY3MuO2kOHUtWPfbYf6JDc10tLhu1XzWVo7puMLWFmdkAj5DOP7fO%25Z8XgY1nTNIowJ4HO3zkyXq%25sGM8snpq6v6ODubLz2aKqfUK8jmB2fJj5DOP5Eagd%25kcWExHWpbl8FO2k3Hy2o242E%25TQBrXpFpNzlZ24riIifHscpF4HvHjb0KiIFJG8IXABHvIT9PMwO2JGvloMdFgpT9GsLDbjUilo90yYw6bHsLoACeOchJ0yLOEjgmqTACygN6C8mlOECUkwBP7sgNEbn%25Yp10UkNh5utTVAbnkq83h7zOh5nmPXB7agq857MruZRUmP81D5PAxb7MPVY8teWh1DMztPloeqVYDafM3ZjmztYRSDXR67aftxdYrBw1RSfWQthY%25VxdSeZ4FjuzWQdjcFI13aeZQ6KIvNXRjcZwBvAHrx6Kc%252wGz4WwBKup%258QFe%252B3iuPcIjup2XH3ccv63iprJXMGGwXHi4TrbI9%25rJHFlHEOou4TJIsJRgL3FlTv0TfryXIslGAlvJCrv0s9OsN3E4GA0ogKLNNF1AMd8U0%25lctO1qTMJFsyZLB9Weu0"
-        title="BMW x4"
+        imageUrl="https://www.peugeot.es/content/dam/peugeot/master/b2c/our-range/showroom/new-508/colors/508_NOIR.jpg"
+        title="Peugeot 508"
         
       />
 
 
 <Card
-        imageUrl="https://bmw-laxmi.com.np/assets/frontend/images/all-models/x-series/x3/inform/cosySec7.png"
-        title="BMW x3"
+        imageUrl="https://informeautomotor.com/wp-content/uploads/2016/09/Peugeot_3008_DKR_0002.jpg"
+        title="Peugeot 3008 Rally"
         
       />
     </div>
